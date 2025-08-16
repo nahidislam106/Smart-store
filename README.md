@@ -2,12 +2,12 @@
 
 A WiFi-based ESP32 system for real-time monitoring and control of store room environment parameters including temperature, humidity, air quality, gas levels, motion detection, fans, and lighting. This project features a modern, responsive web dashboard (see screenshot below) and local OLED display, making it ideal for smart automation in small rooms.
 
-![Store Room Monitor Web Dashboard](assets/webInterface.jpeg)
+![Store Room Monitor Web Dashboard](webInterface.jpeg)
 
 _(Image 1: Web dashboard as seen on a connected device)_
 
 ---
-![Store Room Monitor Circuit Design](assets/final.png)
+![Store Room Monitor Circuit Design](final.png)
 ## Features
 
 - **Sensor Monitoring**:  
@@ -98,7 +98,7 @@ Add these to your Arduino IDE:
 ## Screenshots
 
 ### Web Dashboard
-![Store Room Monitor Web Dashboard](assets/webInterface.jpeg)
+![Store Room Monitor Web Dashboard](webInterface.jpeg)
 _(Displays temperature, humidity, air quality, gas level, motion, fan and LED status, and control buttons)_
 
 ---
