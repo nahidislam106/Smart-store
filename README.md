@@ -7,7 +7,7 @@ A WiFi-based ESP32 system for real-time monitoring and control of store room env
 _(Image 1: Web dashboard as seen on a connected device)_
 
 ---
-
+![Store Room Monitor Circuit Design](assets/final.png)
 ## Features
 
 - **Sensor Monitoring**:  
